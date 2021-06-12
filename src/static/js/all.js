@@ -128,6 +128,7 @@ const main = async() => {
       ["Convergence                  ",`<a href="../convx"              >Various</a>`,"CONV               ","https://convx.conv.finance"],
       ["Abracadabra                  ",`<a href="../abracadabra"        >Various</a>`,"SPELL              ","https://abracadabra.money"],
       ["Universe                     ",`<a href="../universe"           >Various</a>`,"XYZ                ","https://dao.universe.xyz/yield-farming"]
+      ["BIOPset                      ",`<a href="../biopset"            >Various</a>`,"BIOP               ","https://biopset.com/app/"]
     ]
   }
 
